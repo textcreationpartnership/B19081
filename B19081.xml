@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>By the King, a proclamation concerning the fortifications about the citty of Oxford</title>
+            <author>England and Wales. Sovereign (1625-1649 : Charles I)</author>
+         </titleStmt>
+         <extent>Approx. 5KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B19081</idno><idno type="EEBO-CITATION">18851947</idno>
+  <idno type="VID">205411</idno>
+  <idno type="EEBO-PROQUEST">2240861479</idno>
+  
+            <idno type="STC">Wing C2568</idno>
+            <idno type="OCLC">18851947</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B19081)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 205411)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1664:25)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>By the King, a proclamation concerning the fortifications about the citty of Oxford</title>
+                  <author>England and Wales. Sovereign (1625-1649 : Charles I)</author>
+                  <author>Charles I, King of England, 1600-1649.</author>
+               </titleStmt>
+               <extent>1 broadside.   </extent>
+               <publicationStmt>
+                  <publisher>By Leonard Lichfield ...,</publisher>
+                  <pubPlace>Printed at Oxford :</pubPlace>
+                  <date>1643.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"Given at our court at Oxford the 21 day of July, in the ninteenth yeare of our raigne."</note>
+                  <note>Reproduction of original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Fortification --  England --  Oxford.</term>
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-03 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-03 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="royal_proclamation">
+            <pb facs="tcp:205411:1"/>
+            <head>
+               <figure>
+                  <head>C R</head>
+                  <q xml:lang="frm">HONI SOIT QVI MAL Y PENSE</q>
+                  <figDesc>royal blazon surmounted by a crown</figDesc>
+               </figure>
+            </head>
+            <head>BY THE KING.</head>
+            <head type="sub">¶ <hi>A Proclamation concerning the Fortifications about the Citty of</hi> Oxford.</head>
+            <p>
+               <seg rend="decorInit">H</seg>Is Majesty, having often called upon the finishing of these Fortifications, and directed the way how and by what means the same should be performed, and yet notwithstanding all His care thereof, find<g ref="char:EOLhyphen"/>ing how slowly it hath proceeded, and that the not paying by some, who are averse from so good a work, doth discourage those also who are and have been forward (as justly it may,) and so the work is in danger to faile when it is even almost finished, hath thought fit once more to declare, and He doth hereby declare His expresse Pleasure and Command as followeth, That every Person above the age of sixteen years, and under the age of sixty, inhabiting or residing for the present within the University or Citty of <hi>Oxford,</hi> shall once in every Week, either work in Person at or upon the Fortifications there, or for his, her, or their not working shall pay twelve pence for every such default, wherewith some other able and fit person may be hired to work in their steed, and this to continue untill the said Fortifications shall be fully finished, and those workers to be ordered in such manner as His Majesty hath appoynted or shall appoynt. And because the safety and defencablenesse of the place doth concerne all Persons of all sexes and of all degrees and qualities, who reside here, His Majesties pleasure and Command is, That all Women of the ages aforesaid (not having Husbands in this place, who either work in their Persons, or pay for others to work in their turnes) shall pay their Twelve pence as well as men, their safety being concerned as well or more then men are concerned in this case. And His Majesty doth farther Declare, that he doth expect that all Noble<g ref="char:EOLhyphen"/>men, and such as are of His Privy-Councell, shall in this case pay as well, or rather before others, thereby to give exam<g ref="char:EOLhyphen"/>ple to others; And that all His servants of His Houshold, Servants to His dearest Consort the Queene, Also servants to Prince <hi>Charles,</hi> and the Duke of <hi>Yorke</hi> shall duly pay; All such also as worke unto His Majesty in any faculty whatsoever, All Gentlemen attending Him in His Troope, and their Servants, and all Commanders, Captains, Officers and Souldiers residing in this Citty, not being bound to continuall duty, in their turnes shall work in Person, or pay for the same as a<g ref="char:EOLhyphen"/>foresaid; And if any Person shall willingly and voluntarily extend him or her selfe farther in a case of this consequence, His Majesty will gratiously accept thereof. His Majesty doth farther command, That all the arreerages past be duly paid into the hands of the severall Treasurers or Receivers for that purpose appoynted, which in the Colledges and Halls is to some publique Officer of the House, and in the Citty is to the Church-wardens and Constables of the severall Parishes, by or before Wednesday next at twelve of the Clock, &amp; from thenceforth duly payd weekly; &amp; because the payment may not be deferred unnecessarily, His Majesty doth command, That all Lodgers within every house within this Citty, doe leave their mony payable by them with the Maister, Mistresse or Dame of the family, of whom it shall be demanded without expecting a Personall demand from any: But if any shall refuse or neglect to observe His Majesties command in and con<g ref="char:EOLhyphen"/>cerning the premises, His Majesties expresse pleasure is, That He be speedily informed of the names of all such Persons, whom He shall esteeme as Persons disaffected to His service, and besides the levying of the mony from them in such a way as the nature of the service doth require, if such defaulters be His own Servants, He shall hold them unworthy to be continued in His Service; if they be such Persons whose company may well be spared in this place, He will ease the place of their presence, seeing they will not be sensible of the safety thereof.</p>
+            <closer>
+               <dateline>Given at Our Court at <hi>Oxford</hi>
+                  <date>this 21. day of <hi>July,</hi> in the Ninteenth yeare of Our Raigne.</date>
+               </dateline>
+               <lb/> God Save the KING.</closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Printed at Oxford by LEONARD LICHFIELD, Printer to the University. 1643.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
